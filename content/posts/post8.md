@@ -1,7 +1,7 @@
 ---
 title: "Post8"
 date: 2019-09-02T17:55:43-07:00
-draft: true
+
 show_sidebar: true
 categories:
 - News

@@ -8,7 +8,7 @@ tags:
 - tag 1
 - tag 2
 description: This is a sample post
-draft: true
+
 
 ---
 Lorem markdownum [firmat](http://www.vina-filius.org/expellam). Fecit nisi vel:

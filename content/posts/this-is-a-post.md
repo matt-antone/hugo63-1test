@@ -8,7 +8,7 @@ categories:
 tags:
 - tag 1
 - tag 2
-draft: true
+
 show_sidebar: true
 ---
 Lorem markdownum multoque cacumine? Porreximus contractus cuncta utque

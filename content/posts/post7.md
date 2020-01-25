@@ -1,7 +1,7 @@
 ---
 title: "Sua fuissem femina. Me illa est fiet, *per canes* ab nymphae vocant"
 date: 2019-09-02T17:54:51-07:00
-draft: true
+
 show_sidebar: true
 categories:
 - News

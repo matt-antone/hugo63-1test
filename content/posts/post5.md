@@ -1,7 +1,7 @@
 ---
 title: "Ostendere dumque fuerat unus inrita est audiat convivia decipiat paternos telum"
 date: 2019-09-02T17:53:29-07:00
-draft: true
+
 show_sidebar: true
 categories:
 - News

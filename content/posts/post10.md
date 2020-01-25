@@ -1,7 +1,7 @@
 ---
 title: "Liquidi ut caduca, haec que deplangitur, cervo: eodem iam"
 date: 2019-09-02T17:57:07-07:00
-draft: true
+
 show_sidebar: true
 categories:
 - News

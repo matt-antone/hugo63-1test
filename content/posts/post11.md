@@ -1,7 +1,7 @@
 ---
 title: "Proxima laborum obscurum hasta iustis sudore parabant unda dis iterum"
 date: 2019-09-02T17:58:21-07:00
-draft: true
+
 show_sidebar: true
 categories:
 - News

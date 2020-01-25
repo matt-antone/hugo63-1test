@@ -9,7 +9,7 @@ tags:
 - tag 1
 - tag 2
 description: This is a sample page
-draft: true
+
 
 ---
 Lorem markdownum quisque aliquid in mentis iacent! Annum et dubioque, accepisse
